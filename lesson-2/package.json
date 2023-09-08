@@ -1,0 +1,17 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "khởi tạo 1 con server dùng express + API -> các đường dẫn (URL) + METHOD -> phương thức tương tác + 1 số cách gửi dữ liệu lên API: params",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
